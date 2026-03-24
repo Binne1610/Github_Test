@@ -2,4 +2,6 @@ var test = 0;
 
 function isNullCheck() {}
 
-test = 1;
+test1 = 1;
+
+test2 = 2;
