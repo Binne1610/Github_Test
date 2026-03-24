@@ -2,6 +2,6 @@ var test = 0;
 
 function isNullCheck() {}
 
-test1 = 1;
+function isUndefinedCheck() {}
 
-test2 = 2;
+function isEmptyCheck() {}
